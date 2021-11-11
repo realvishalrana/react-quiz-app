@@ -1,4 +1,4 @@
-## Projects link
+## Project link
 https://realvishalrana.github.io/react-quiz-app/
 
 ## Images Of Projects
