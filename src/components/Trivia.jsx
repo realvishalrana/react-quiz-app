@@ -10,7 +10,6 @@ export default function Trivia({
   questionNumber,
   setQuestionNumber,
 }) {
-  const [username, setUsername] = useState(null);
   const [question, setQuestion] = useState(null);
   const [selectAnswer, setSelectAnswer] = useState(null);
   const [className, setClassName] = useState("answer");
